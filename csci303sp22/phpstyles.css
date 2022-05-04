@@ -1,0 +1,38 @@
+table {
+    border-collapse: collapse;
+}
+td, tr, th {
+    border: solid 1px #000000;
+    padding: 5px;
+}
+.success {color: #003D00;}
+.error {color: #700000;}
+nav a {
+    padding: 10px;
+    border: 2px solid #444864;
+}
+a {
+    color: #0F143E;
+}
+img {
+    margin-left: 50px;
+}
+h3 {
+    font-size: 22px;
+}
+h4 {
+    font-size: 18px;
+}
+body {
+    background-color: #ADCDE1;
+    font-family: Calibri;
+}
+.details {
+    padding: 10px;
+    border: 5px solid #444864;
+    font-size: 16px;
+}
+.pagename {
+    padding: 1px;
+    border: 2px solid #444864;
+}
